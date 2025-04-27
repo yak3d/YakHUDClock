@@ -1,4 +1,6 @@
 # YakHUDClock
+![GitHub License](https://img.shields.io/github/license/yak3d/YakHUDClock)
+
 This project serves as an example and a working mod for The Elder Scrolls IV: Oblivion Remastered. You will need to follow the steps on [Unreal Engine 5.x Sample Project for Oblivion Remastered](https://www.nexusmods.com/oblivionremastered/mods/880) in order for this project to work 100% in Unreal Engine. Most importantly, **you will need to build the engine from source**.
 
 ## Building
